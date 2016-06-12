@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/chip90/react-project/issues"
   },
-  "homepage": "https://github.com/chip90/react-project#readme"
+  "homepage": "https://github.com/chip90/react-project#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "watchify": "^3.7.0"
+  }
 }
